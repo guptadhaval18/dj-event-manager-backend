@@ -12,6 +12,7 @@ Icon
 
 .vscode
 yarn.lock
+package-lock.json
 
 ############################
 # Linux
